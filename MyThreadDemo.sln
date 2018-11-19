@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyThreadDemo", "MyThreadDemo\MyThreadDemo.vcproj", "{FC373C4E-86BF-4088-BDD9-066F000086B1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmartPtDemo", "SmartPtDemo\SmartPtDemo.vcproj", "{748C523C-20A4-4E92-95CB-01616CDB98F5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyLogDemo", "MyLogDemo\MyLogDemo.vcproj", "{71BA3A64-A61B-4E8B-86F2-FDAD59391FC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC373C4E-86BF-4088-BDD9-066F000086B1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FC373C4E-86BF-4088-BDD9-066F000086B1}.Debug|Win32.Build.0 = Debug|Win32
+		{FC373C4E-86BF-4088-BDD9-066F000086B1}.Release|Win32.ActiveCfg = Release|Win32
+		{FC373C4E-86BF-4088-BDD9-066F000086B1}.Release|Win32.Build.0 = Release|Win32
+		{748C523C-20A4-4E92-95CB-01616CDB98F5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{748C523C-20A4-4E92-95CB-01616CDB98F5}.Debug|Win32.Build.0 = Debug|Win32
+		{748C523C-20A4-4E92-95CB-01616CDB98F5}.Release|Win32.ActiveCfg = Release|Win32
+		{748C523C-20A4-4E92-95CB-01616CDB98F5}.Release|Win32.Build.0 = Release|Win32
+		{71BA3A64-A61B-4E8B-86F2-FDAD59391FC9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{71BA3A64-A61B-4E8B-86F2-FDAD59391FC9}.Debug|Win32.Build.0 = Debug|Win32
+		{71BA3A64-A61B-4E8B-86F2-FDAD59391FC9}.Release|Win32.ActiveCfg = Release|Win32
+		{71BA3A64-A61B-4E8B-86F2-FDAD59391FC9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
